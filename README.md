@@ -1,2 +1,2 @@
-# fan_controller
+# Fan Controller
 Arduino Base Automotive Fan Controller
